@@ -12199,3 +12199,10 @@ footer.footer p {
 
     font-size: 16px !important;
 }
+/* FIX BACKGROUND MASTHEAD */
+section.masthead#home {
+    background-image: url("bg 1.jpg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
